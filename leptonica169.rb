@@ -1,6 +1,6 @@
 require 'formula'
 
-class Leptonica < Formula
+class Leptonica169 < Formula
   homepage 'http://www.leptonica.org/'
   url 'http://www.leptonica.org/source/leptonica-1.69.tar.gz'
   sha1 '91199f99d2e78b15b76ffa6fc4e86ee458a330e8'
